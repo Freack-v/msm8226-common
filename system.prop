@@ -168,3 +168,6 @@ persist.fuse_sdcard=true
 
 # Activate USB OTG
 persist.sys.isUsbOtgEnabled=1
+
+# Dual sim
+persist.radio.multisim.config=dsds
